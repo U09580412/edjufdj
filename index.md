@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/U09580412/edjufdj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<meta charset="UTF-8">
+</head>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<body>
+<div id="head">
+<center>
+<table width="1000" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="title.jpg" width="1000" height="100"</td>
+</tr>
 
-- Bulleted
-- List
+<tr>
+<td align="center">國立聯合大學文創系郭俊雄的網頁</td>
+</tr>
 
-1. Numbered
-2. List
+</table>
 
-**Bold** and _Italic_ and `Code` text
+</div>
 
-[Link](url) and ![Image](src)
-```
+<div id="nav1"><br>
+<center>
+<table width="1000" border="0" cellpadding="0" cellspacing="1"bgcolor="#999999">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<tr>
+<td align="left" bgcolor="ffffff"><a href="index.htm">作品集</a> ＞ <a href="index.htm">電繪作品</a> ＞ photoshop作品</td>
+</tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/U09580412/edjufdj/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</table>
 
-### Support or Contact
+</div>
+</body>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
